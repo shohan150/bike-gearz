@@ -26,7 +26,7 @@ export default function SingleProduct({ data }) {
         <h3 className="text-md dark:font-medium dark:text-gray-400 group-hover:dark:text-white">
           Tk. {data.price}
         </h3>
-        <button className="bg-primary py-2 px-3 rounded-full font-semibold text-white  mt-3 ">
+        <button className="bg-primary py-2 px-3 rounded-full font-semibold text-white mt-3">
           Add to cart
         </button>
       </div>
