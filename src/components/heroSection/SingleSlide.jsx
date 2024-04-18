@@ -14,7 +14,7 @@ export default function SingleSlide({ data }) {
         <div className="order-1 sm:order-2">
           <div className="z-10">
             <img
-              src={getImgUrl(data.image, "../assets/hero slider")}
+              src={getImgUrl(data.image, "../../public/assets/hero slider")}
               alt=""
               className="sm:h-[600px] h-[350px] mb-6 object-contain mx-auto"
             />
