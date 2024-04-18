@@ -1,4 +1,4 @@
-import bannerImg from "../../../public/assets/banner img.png";
+import bannerImg from "/assets/banner img.png";
 export default function Banner() {
   return (
     <div
