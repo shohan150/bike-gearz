@@ -1,7 +1,7 @@
 import { BsInstagram } from "react-icons/bs";
 import { FaFacebookSquare } from "react-icons/fa";
 import { FaLinkedin } from "react-icons/fa6";
-import logo from "../../assets/logo.png";
+import logo from "../../../public/assets/logo.png";
 export default function Footer() {
   const footerLinks = [
     {
