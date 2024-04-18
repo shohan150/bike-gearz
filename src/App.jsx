@@ -1,3 +1,4 @@
+import Testimonials from "./components/feedbacks/Testimonials";
 import HeroSection from "./components/heroSection/HeroSection";
 import Navbar from "./components/navbar/Navbar";
 import AllProducts from "./components/products/AllProducts";
@@ -12,6 +13,7 @@ function App() {
       <Banner />
       <AllProducts />
       <PopularJackets />
+      <Testimonials />
     </>
   );
 }

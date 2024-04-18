@@ -3,7 +3,7 @@ import { getImgUrl } from "../../utils/getImgUrl.js";
 
 export default function SingleProduct({ data }) {
   return (
-    <div className="group pb-2 rounded-2xl shadow-xl bg-white dark:bg-gray-800 hover:bg-black/80 dark:hover:bg-[#dee561] hover:text-white">
+    <div className="group pb-2 rounded-2xl shadow-xl bg-white dark:bg-gray-800 hover:bg-black/80 dark:hover:bg-[#dee561] hover:text-white md:mt-0 mt-28">
       <div className="relative">
         <img
           src={getImgUrl(data.image, "../assets/jackets")}
