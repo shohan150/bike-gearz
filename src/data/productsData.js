@@ -46,7 +46,7 @@ const allProducts = {
       id: 8,
       title: "Soundbox",
       price: 840,
-      image: "soundbox.JPG",
+      image: "soundbox.jpg",
     },
   ],
   helmets: [
