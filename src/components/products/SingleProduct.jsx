@@ -4,7 +4,7 @@ export default function SingleProduct({ data }) {
     <div className="group pb-2">
       <div className="relative">
         <img
-          src={getImgUrl(data.image, "../assets/products")}
+          src={getImgUrl(data.image, "/assets/products")}
           alt={data.title}
           className="h-[180px] w-[260px] object-cover rounded-md"
         />
