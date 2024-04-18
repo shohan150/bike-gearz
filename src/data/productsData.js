@@ -98,7 +98,7 @@ const allProducts = {
       id: 1,
       title: "Alpinestars-T-GP-Pro-Air-Black-White-Yellow",
       price: "4,000",
-      image: "Alpinestars-T-GP-Pro-Air-Black-White-Yellow.png",
+      image: "Alpinestars-T-GP-Pro-Air-Black-White-Yellow.PNG",
       rating: 5,
       description:
         "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quibusdam unde facere excepturi sapiente.",
@@ -107,7 +107,7 @@ const allProducts = {
       id: 2,
       title: "Alpinestars-Amok-Air-Drystar-Jacket",
       price: "3,600",
-      image: "Alpinestars-Amok-Air-Drystar-Jacket.png",
+      image: "Alpinestars-Amok-Air-Drystar-Jacket.PNG",
       rating: 5,
       description:
         "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quibusdam unde facere excepturi sapiente.",
@@ -116,7 +116,7 @@ const allProducts = {
       id: 3,
       title: "Alpinestars-T-GP-R-V2-Air-Red-Black-White",
       price: "4,350",
-      image: "Alpinestars-T-GP-R-V2-Air-Red-Black-White.png",
+      image: "Alpinestars-T-GP-R-V2-Air-Red-Black-White.PNG",
       rating: 4,
       description:
         "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quibusdam unde facere excepturi sapiente.",
