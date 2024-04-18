@@ -13,7 +13,7 @@ const testimonials = [
   },
   {
     id: 3,
-    name: "David Lee",
+    name: "David Sanchez",
     text: "Top-notch customer service! I had a minor issue with my order, but the customer service team was incredibly helpful.",
     img: "https://xsgames.co/randomusers/assets/avatars/male/18.jpg",
   },
@@ -27,7 +27,7 @@ const testimonials = [
     id: 5,
     name: "Michael Brown",
     text: "Fast shipping and great communication throughout the entire process with clear updates on its delivery status.",
-    img: "https://xsgames.co/randomusers/assets/avatars/male/65.jpg",
+    img: "https://xsgames.co/randomusers/assets/avatars/male/6.jpg",
   },
 ];
 

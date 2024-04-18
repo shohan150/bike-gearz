@@ -3,7 +3,7 @@ import SingleJackets from "./SingleJackets";
 
 export default function PopularJackets() {
   return (
-    <div className="px-7 lg:px-10 py-6 bg-white dark:bg-gray-900">
+    <div id="jackets" className="px-7 lg:px-10 py-6 bg-white dark:bg-gray-900">
       <div className="text-center md:mb-28 mb-0 space-y-2">
         <h1 className="text-3xl font-bold lg:text-4xl dark:text-white">
           Most Popular Jackets

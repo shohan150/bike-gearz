@@ -1,7 +1,10 @@
 import bannerImg from "../../assets/banner img.png";
 export default function Banner() {
   return (
-    <div className="py-16 lg:py-32 flex justify-center items-center dark:bg-gray-900">
+    <div
+      id="offers"
+      className="py-16 lg:py-32 flex justify-center items-center dark:bg-gray-900"
+    >
       <div className="px-7 lg:px-10 ">
         <div className="bg-primary dark:bg-primary/80 grid grid-cols-3 md:gap-6 gap-2 items-center text-white rounded-3xl">
           <div className="p-6 sm:p-8 space-y-3">

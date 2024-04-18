@@ -4,6 +4,7 @@ import Navbar from "./components/navbar/Navbar";
 import AllProducts from "./components/products/AllProducts";
 import PopularJackets from "./components/products/PopularJackets";
 import Banner from "./components/small sections/Banner";
+import Footer from "./components/small sections/Footer";
 
 function App() {
   return (
@@ -14,6 +15,7 @@ function App() {
       <AllProducts />
       <PopularJackets />
       <Testimonials />
+      <Footer />
     </>
   );
 }

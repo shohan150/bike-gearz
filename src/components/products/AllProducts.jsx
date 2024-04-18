@@ -3,7 +3,10 @@ import SingleProduct from "./SingleProduct";
 
 export default function AllProducts() {
   return (
-    <div className="px-7 lg:px-10 py-14 bg-white dark:bg-gray-900">
+    <div
+      id="products"
+      className="px-7 lg:px-10 py-14 bg-white dark:bg-gray-900"
+    >
       <div className="text-center mb-10 space-y-2">
         <h1 className="text-3xl font-bold lg:text-4xl dark:text-white">
           Our Products

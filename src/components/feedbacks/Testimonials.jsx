@@ -56,7 +56,7 @@ export default function Testimonials() {
           <Slider {...settings}>
             {testimonials.map((data) => (
               <div key={data.id} className="slide-gap">
-                <div className="shadow-lg py-8 px-6 rounded-xl min-h-[225px] bg-primary/10 dark:bg-gray-800 relative">
+                <div className="shadow-lg py-8 px-6 w-[94%] mb-6 rounded-xl min-h-[225px] bg-primary/10 dark:bg-gray-800 relative">
                   <div className="mb-4">
                     <img
                       src={data.img}
@@ -72,7 +72,7 @@ export default function Testimonials() {
                       </h1>
                     </div>
                   </div>
-                  <p className="text-black/20 text-9xl absolute top-0 right-0 font-serif">
+                  <p className="text-black/20 text-9xl absolute top-0 right-4 font-serif">
                     ,,
                   </p>
                 </div>
