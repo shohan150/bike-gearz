@@ -64,7 +64,7 @@ export default function Footer() {
             <a
               key={index}
               href={link.link}
-              className="block text-gray-400 font-medium hover:text-white hover:scale-105 duration-200 text-lg leading-10"
+              className="block text-gray-400 font-medium hover:text-white duration-200 text-lg leading-10"
               onClick={(e) => smoothScroll(e, link.link)}
             >
               {link.title}
