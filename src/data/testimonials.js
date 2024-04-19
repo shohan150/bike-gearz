@@ -2,7 +2,7 @@ const testimonials = [
   {
     id: 1,
     name: "Liam Dean",
-    text: "Excellent quality products and competitive prices. They went above and beyond to make sure I was satisfied, and I'm very impressed.",
+    text: "Excellent quality products and competitive prices. They went above and beyond to make sure I was satisfied. Very impressed.",
     img: "https://xsgames.co/randomusers/assets/avatars/male/3.jpg",
   },
   {
